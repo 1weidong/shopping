@@ -23,7 +23,7 @@ const routers = [
     },
     {
         path: '*',
-        redirecet: '/list'
+        redirect: '/list'
     }
 ];
 
